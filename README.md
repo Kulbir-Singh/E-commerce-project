@@ -1,6 +1,8 @@
 # Smart Health
 An ecommerce website where you can find all types of wearables. 
 
+https://user-images.githubusercontent.com/25377766/116767565-f577f980-a9fe-11eb-8f65-168e785ffafd.mp4
+
 ## Description
 An ecommerce website where you can find all types of wearables.
 Description: A one stop shop for all your wearable needs. This project focuses on building an e-commerce website that is user friendly. With features such as a filtering system, category, and a search bar users can easily find the products they're looking for. A cart and checkout modal helps the user to complete their purchases in a 2 step process.
@@ -18,3 +20,14 @@ Description: A one stop shop for all your wearable needs. This project focuses o
 
  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 
+## Homepage
+
+## Items Page
+
+## Item Page
+
+## Filters and Catagories
+
+## Cart
+
+## Checkout
