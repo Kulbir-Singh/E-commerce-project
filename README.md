@@ -1,5 +1,5 @@
 # Smart Health
-
+An ecommerce website where you can find all types of wearables. 
 
 ## Contributors
 <ul><li>Evgeniia: https://github.com/evgen-chu</li>
