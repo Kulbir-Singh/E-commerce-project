@@ -21,15 +21,17 @@ Description: A one stop shop for all your wearable needs. This project focuses o
  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 
 ## Homepage
-
+<img src="./project-e-commerce-1/resources/e-commerce-homepage.PNG">
 
 ## Items Page
+<img src="./project-e-commerce-1/resources/items.PNG">
 
 ## Item Page
-
-## Filters and Catagories
+<img src="./project-e-commerce-1/resources/item.PNG">
 
 ## Cart
 <img src="./project-e-commerce-1/resources/cart.PNG">
 
 ## Checkout
+<img src="./project-e-commerce-1/resources/checkout.PNG">
+<img src="./project-e-commerce-1/resources/continueshopping.PNG">
