@@ -1,2 +1,2 @@
 
-@https://github.com/evgen-chu
+@evgen-chu
