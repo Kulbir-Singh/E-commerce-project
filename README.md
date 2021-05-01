@@ -12,7 +12,9 @@ Description: A one stop shop for all your wearable needs. This project focuses o
 
 ## Frameworks and Libraries 
 <ul>
-<li>Node.js</li>
-<li>React.js</li>
-<li>Redux</li>
+<li>Node.js </li>
+<li>React.js </li>
+<li>Redux </li>
+<li>HTML </li>
+<li>CSS <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </li>
 </ul>
