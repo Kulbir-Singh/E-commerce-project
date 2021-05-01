@@ -10,4 +10,9 @@ Description: A one stop shop for all your wearable needs. This project focuses o
 <li>lirca jimenez: https://github.com/lircajimenez</li>
 <li>Matthew Hart: https://github.com/m-atthart</li></ul>
 
-## 
+## Frameworks and Libraries 
+<ul>
+<li>Node.js</li>
+<li>React.js</li>
+<li>Redux</li>
+</ul>
